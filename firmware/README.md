@@ -21,5 +21,5 @@ Expect breaking changes, refactors, incomplete features, and evolving interfaces
 - Logs and telemetry formats are not stable yet.
 - Anything safety-critical must be validated on a bench setup before field use.
 
-## Structure (typical)
+
 
